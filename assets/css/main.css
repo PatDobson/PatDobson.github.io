@@ -139,7 +139,7 @@ body {
 @media (max-width: 768px){
 
 .contactFormField {
-    width: 400px!important;
+    width: 360px!important;
     margin-top: 30px!important;
     display: inline;
     height: 70px;
